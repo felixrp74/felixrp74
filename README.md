@@ -9,7 +9,7 @@
 
 ## Encuéntrame en:
  
-[![LinkedIn] (https://www.linkedin.com/in/braismoure)
+LinkedIn (https://www.linkedin.com/in/felix-ramos-paredes-98469b180/)
 
 
 <!--
