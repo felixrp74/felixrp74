@@ -11,7 +11,7 @@
  
 LinkedIn (https://www.linkedin.com/in/felix-ramos-paredes-98469b180/)
 
-- 🔭 I’m currently working on GrupoSistemas
+- 🔭 I’m currently developing an Notes App
 - 🌱 I’m currently learning MVVM and MVP
 - 📫 How to reach me: feramospa@est.unap.edu.pe
 
