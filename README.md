@@ -11,9 +11,11 @@
  
 LinkedIn (https://www.linkedin.com/in/felix-ramos-paredes-98469b180/)
 
-- 🔭 I’m currently developing an Notes App
-- 🌱 I’m currently learning MVVM and MVP
+- 🔭 I’m currently developing an Notes App.
+- 🌱 I’m currently learning MVVM.
 - 📫 How to reach me: feramospa@est.unap.edu.pe
+- 👯 I’m looking to collaborate on an Androod software company.
+
 
 <!--
 **felixrp74/felixrp74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
