@@ -11,11 +11,15 @@
  
 LinkedIn (https://www.linkedin.com/in/felix-ramos-paredes-98469b180/)
 
-- 🔭 I’m currently developing an Notes App.
-- 🌱 I’m currently learning MVVM.
+- 🔭 I have published two apps at PlayStore.
+- 🔭 Those are Tragillos App and Notes App.
+- 🔭 For the first aop I have manipulated MVVM, Retrofit, Room Database, etc.
+- 🌱 For the second app I have manipulated Jetpack Compose, Dagger Hilt, Flows, etc.
 - 📫 How to reach me: feramospa@est.unap.edu.pe
-- 👯 I’m looking to collaborate on an Androod software company.
+- 👯 I’m looking to collaborate to develop Android native software projects.
 
+
+Thanks for reading. ;)
 
 <!--
 **felixrp74/felixrp74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
