@@ -7,7 +7,7 @@
 </br>
 
 
-## Encuéntrame en:
+## Find me:
  
 LinkedIn (https://www.linkedin.com/in/felix-ramos-paredes-98469b180/)
 
@@ -16,7 +16,7 @@ LinkedIn (https://www.linkedin.com/in/felix-ramos-paredes-98469b180/)
 - 🔭 For the first aop I have manipulated MVVM, Retrofit, Room Database, etc.
 - 🌱 For the second app I have manipulated Jetpack Compose, Dagger Hilt, Flows, etc.
 - 📫 How to reach me: feramospa@est.unap.edu.pe
-- 👯 I’m looking to collaborate to develop Android native software projects.
+- 👯 I’m looking to collaborate to develop Android native software projects in Kotlin.
 
 
 Thanks for reading. ;)
