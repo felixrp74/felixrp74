@@ -11,7 +11,7 @@
  
 LinkedIn (https://www.linkedin.com/in/felix-ramos-paredes-98469b180/)
 
-- 🔭 I have published two apps at PlayStore.
+- 🔭 I have published two originals apps at PlayStore.
 - 🔭 Those are Tragillos App and Notes App.
 - 🔭 For the first aop I have manipulated MVVM, Retrofit, Room Database, etc.
 - 🌱 For the second app I have manipulated Jetpack Compose, Dagger Hilt, Flows, etc.
